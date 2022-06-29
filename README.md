@@ -1,6 +1,4 @@
 # chat-app-react-node.js
-This project was bootstrapped with Create React App.
-
 
 
 
